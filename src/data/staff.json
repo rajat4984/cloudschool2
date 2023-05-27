@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Vansh Sharma",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Randeep hooda",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"32,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Varun singh",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"65,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Ajay",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Virat kohli",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Rohit Sharma",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "15/06/2021",
+        "salary":"40,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Ajay",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Virat kohli",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Rohit Sharma",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "15/06/2021",
+        "salary":"40,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Ajay",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Virat kohli",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "11/06/2021",
+        "salary":"80,000",
+        "type":"Teacher"
+      },
+      {
+        "name": "Rohit Sharma",
+        "contact": "350832585",
+        "adress": "G-Block New Delhi",
+        "joinDate": "15/06/2021",
+        "salary":"40,000",
+        "type":"Teacher"
+      }
+]
